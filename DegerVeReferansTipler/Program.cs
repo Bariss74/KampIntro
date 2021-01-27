@@ -15,6 +15,7 @@ namespace DegerVeReferansTipler
             sayi2 = 65;
 
 
+
         }
     }
 }
